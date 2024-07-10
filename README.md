@@ -1,4 +1,4 @@
-#Data Science Tools Basics and Basic EDA
+**Data Science Tools Basics and Basic EDA**
 This repository aims to provide foundational knowledge and examples for essential data science tools. It includes tutorials and examples covering NumPy, Pandas, Matplotlib, and other key libraries used in data manipulation, analysis, and visualization. Additionally, basic exploratory data analysis (EDA) examples are included to demonstrate practical applications of these tools in understanding datasets.
 
 **Key Features:**

@@ -7,4 +7,3 @@ This repository aims to provide foundational knowledge and examples for essentia
 - **Matplotlib:** Fundamentals of data visualization including plotting charts, graphs, and customizing visual outputs.
 - **Basic EDA:** Examples showcasing initial data investigation, summary statistics, data visualization for insights, and more.
 
-This repository serves as a learning resource for beginners in data science, providing a structured approach to mastering essential tools and techniques for data analysis and visualization.

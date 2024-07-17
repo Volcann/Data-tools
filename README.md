@@ -1,4 +1,4 @@
-# Data Science Tools Basics and Basic EDA 🧩📊
+# Data Science Tools Basics 🧩📊
 
 Welcome to this repository, designed to equip you with foundational knowledge and practical examples of essential data science tools. Whether you are a beginner or looking to solidify your understanding, this collection provides a comprehensive guide to some of the most widely used libraries in data manipulation, analysis, and visualization. Additionally, it includes basic exploratory data analysis (EDA) examples to illustrate the application of these tools in real-world scenarios for understanding datasets.
 
@@ -19,15 +19,17 @@ Welcome to this repository, designed to equip you with foundational knowledge an
 - **Data Visualization Fundamentals:** Understand the basics of plotting various types of charts and graphs.
 - **Customizing Visual Outputs:** Customize your plots to make them more informative and visually appealing.
 
-### Basic EDA 🔍
-- **Initial Data Investigation:** Start with examining your dataset to understand its structure and contents.
-- **Summary Statistics:** Compute summary statistics to get a sense of the central tendency and variability in your data.
-- **Data Visualization for Insights:** Use visual tools to identify patterns, trends, and outliers in your dataset.
-- **Practical Applications:** Examples that demonstrate how to use these tools for practical data analysis tasks.
+### Seaborn 🌊
+- **Figure-Level Functions:** Use functions like `relplot`, `catplot`, and `lmplot` to create complex visualizations with minimal code.
+- **Axes-Level Functions:** Master functions like `scatterplot`, `lineplot`, `histplot`, `boxplot`, and more for detailed and customized plots.
+- **Statistical Plots:** Visualize statistical relationships and distributions using specialized functions.
+- **Themes and Styles:** Apply different themes and styles to enhance the visual appeal of your plots.
 
 ## How to Use 📖
 
 1. **Clone the Repository:**
-   git clone (https://github.com/Volcann/Data-Science-Basics.git)
+   ```sh
+   git clone https://github.com/Volcann/Data-Science-Basics.git
+   ```
 
-
+Feel free to explore the examples and adapt them to your own datasets to enhance your data science skills. Happy learning!

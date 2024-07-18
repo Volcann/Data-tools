@@ -1,4 +1,4 @@
-# Data Science Tools Basics 🧩📊
+# Data Tools 🧩📊
 
 Welcome to this repository, designed to equip you with foundational knowledge and practical examples of essential data science tools. Whether you are a beginner or looking to solidify your understanding, this collection provides a comprehensive guide to some of the most widely used libraries in data manipulation, analysis, and visualization.
 

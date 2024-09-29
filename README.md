@@ -9,12 +9,15 @@ Welcome to this repository, designed to equip you with foundational knowledge an
 - **Mathematical Operations:** Perform a variety of mathematical operations on arrays with ease.
 - **Data Handling:** Efficiently handle numerical data for computational tasks.
 
-### Pandas 📊
+### Pandas 🐞
 - **Data Frames:** Get introduced to the powerful data frame structure for handling tabular data.
 - **Data Cleaning:** Explore techniques to clean and preprocess data for analysis.
 - **Data Manipulation:** Learn how to filter, sort, and aggregate data effortlessly.
 - **Basic Statistical Analysis:** Conduct initial statistical analysis to summarize your data.
 
+---
+
+## Data Visualization 📊
 ### Matplotlib 🎨
 - **Data Visualization Fundamentals:** Understand the basics of plotting various types of charts and graphs.
 - **Customizing Visual Outputs:** Customize your plots to make them more informative and visually appealing.
